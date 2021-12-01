@@ -12,7 +12,7 @@ namespace lab_4_part_2
         }
         static double Rec(double k)
         {
-            if (k == -5)
+            if (k == 1)
             {
                 return Method (k);
             }
